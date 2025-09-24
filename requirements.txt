@@ -1,0 +1,15 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+torch>=2.2,<3
+transformers>=4.44
+datasets>=2.20
+evaluate>=0.4
+accelerate>=0.33
+sentencepiece>=0.2
+fastapi>=0.111
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9
+matplotlib>=3.8
+seaborn>=0.13

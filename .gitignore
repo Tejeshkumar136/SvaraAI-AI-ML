@@ -1,0 +1,10 @@
+ __pycache__/
+models/*.bin
+models/*.pt
+models/*.pkl
+.env
+.venv/
+.ipynb_checkpoints/
+data/raw/*
+!data/sample.csv
+
